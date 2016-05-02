@@ -10,12 +10,22 @@ $font-size-base:          $base-size;
 $line-height-base:        $base-height;
 $headings-font-family:    $header-font;
 
+
+// Override
+$blue: #AAC1D9;
+$red: #EE5F5B;
+$yellow: #FDB631;
+$orange: #D9C3AA;
+$green: #AAD9AB;
+
+
 // Semantic color scheme
 $brand-primary:   $blue;
 $brand-success:   $green;
 $brand-info:      $yellow;
 $brand-danger:    $red;
 $brand-warning:   $orange;
+
 
 // Buttons / inputs radius
 $border-radius-base:  2px;
